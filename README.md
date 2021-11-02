@@ -1,71 +1,29 @@
-# [Start Bootstrap - Simple Sidebar](https://startbootstrap.com/template/simple-sidebar/)
+# Pitt Personal Bike Maintenance Manual
 
-[Simple Sidebar](https://startbootstrap.com/template/simple-sidebar/) is an off canvas sidebar navigation template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+This website is a guidebook on bike maintenance for Pitt students. Our mission is to provide Pitt students with reliable and useful information to help them maintain their bike economically and integrate themselves and others into the Pittsburgh biking community. Our guide is organized into 6 parts: The intro (you are here), Skills, Tips, Resources, Inclusion, and Ethics. Description of the sections are as follows:
 
-## Preview
++ Intro: Welcome to our guidebook, learn all about us and how to contribute.
++ Skills: Learn maintenance skills such as fixing a flat or adjusting a brake cable.
++ Tips: Learn some tricks to keep your bike in tip top shape and/or learn how to fix things on the fly.
++ Resources: Learn about resources available to you. Need a workshop? Want some routes? Having trouble finding a community? Your answers are here.
++ Inclusion: Get others involved.
++ Ethics: Become informed ethical decisions when it comes to working on your bike and participating in the community.
 
-[![Simple Sidebar Preview](https://assets.startbootstrap.com/img/screenshots/templates/simple-sidebar.png)](https://startbootstrap.github.io/startbootstrap-simple-sidebar/)
+### History
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-simple-sidebar/)**
+This project is currently in phase 0, being actively created by Pitt students in ENGCMP 0600.
 
-## Status
+### License and contribution guide
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-simple-sidebar/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-simple-sidebar.svg)](https://www.npmjs.com/package/startbootstrap-simple-sidebar)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-simple-sidebar/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-simple-sidebar)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-simple-sidebar/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-simple-sidebar?type=dev)
+Anyone may modify and redistribute this content as long as it is credited to this organization.
 
-## Download and Installation
+If you wish to add content to this guide please adhere to the following rules:
 
-To begin using this template, choose one of the following options to get started:
-
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/simple-sidebar/)
-* Install via npm: `npm i startbootstrap-simple-sidebar`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-simple-sidebar.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-simple-sidebar)
-
-## Usage
-
-### Basic Usage
-
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
-
-#### npm Scripts
-
-* `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-* `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-* `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-* `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-* `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-* `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-* `npm run start:debug` runs the project in debug mode
-* `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
-
-You must have npm installed in order to use this build environment.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-simple-sidebar/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/simple-sidebar/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
-
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-simple-sidebar/blob/master/LICENSE) license.
++ Be polite and respectful in your content writing and communication with other contributors
++ Spell check your work before submitting a pull request
++ Pull requests are for discussing the actual content of the post in addition to the code
++ Use the given stylesheet for formatting your post
++ No back-linking to your own work without approval, and no affiliate links ever
++ No anecdotes in posts under the skills, tips, or resources categories
++ No advocacy for political organizations, cliques, or aesthetics - since these topics may marginalize members of the community
++ No download links, unlicensed content, or alterations to website functionality and theme/standards
